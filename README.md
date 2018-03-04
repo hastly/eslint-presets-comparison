@@ -2,7 +2,7 @@
 A Comparison table for ESLint presets.
 
 
-| Rule                             | [standard/standard](https://github.com/standard/standard) | [airbnb/javascript](https://github.com/airbnb/javascript) |
+| Rule                             | [standard/standard](https://github.com/standard/standard) | [airbnb/javascript](https://github.com/airbnb/javascript) | [drakesh/javascript](https://github.com/drakesh/javascript) |
 |----------------------------------|-----------------|-------------------|-------------------|
 | Indentation                      | 2 spaces        | 2 spaces          | 2 spaces          |
 | Semicolons                       | No!             | Yes               | No!               |
